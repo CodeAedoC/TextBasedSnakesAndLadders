@@ -6,6 +6,9 @@ Prerequisites
 Compiler for C
 <br>
 ![](Screenshot%201.png)
+<br>
 ![](Screenshot%203.png)
+<br>
 ![](Screenshot%204.png)
+<br>
 ![](Screenshot%202.png)
